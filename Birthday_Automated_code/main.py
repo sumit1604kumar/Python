@@ -13,8 +13,8 @@ date = present_time.day
 PLACEHOLDER = "[NAME]"
 today_tuple = (present_month, date)
 
-my_email ="codergroup2021@gmail.com"
-password = "nlyfbrbfeyeudpqc"
+my_email ="codergroup@gmail.com"
+password = "nlyfbr"
 subject = "Happy Birthday"
 birthday_date = {(data_row["month"], data_row["day"]): data_row for (index, data_row) in data.iterrows()}
 
